@@ -77,6 +77,7 @@ Personal blogs of [Hack Reactor](http://www.hackreactor.com) students.
 ### February
 
 - [Bradley Portnoy](https://www.bradleyportnoy.com/) [sf]
+- [David Rabkin](https://davidrabkin.wordpress.com/) [sf]
 - [Julia Nething](https://github.com/cjnething/formerBlog) [sf]
 - [Richard Kho](http://richardkho.com/) [sf, hir]
 - [Stephanie Higa](http://www.stephaniehiga.com/) [sf]
